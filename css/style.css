@@ -21,4 +21,11 @@ a:active {
 img {
 	border: 6px solid black;
 	border-radius: 10px;
+	width: 75%;
+	height: 75%;
+	object-fit:cover;
+}
+.dishes {
+  display: flex;
+  justify-content: space-around;
 }
